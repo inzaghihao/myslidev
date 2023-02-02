@@ -2,7 +2,6 @@
 theme: seriph
 layout: cover
 background: 'https://source.unsplash.com/1600x900/?nature,water'
-download: true
 ---
 
 # Cheng Nan
